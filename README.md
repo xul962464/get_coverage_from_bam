@@ -1,7 +1,7 @@
 # get_coverage_from_bam 
 # Need to add samtools software to environment variables
 
-Contact: xul<xul@genepioneer.com> <1275875706@qq.com>
+Contact: xul <xul@genepioneer.com>  <1275875706@qq.com>
 Description:
 
         get reference seqence depth for every site and every base
